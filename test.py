@@ -1,4 +1,4 @@
-import  time
+# Demo file
 
 def addup(n1, n2):
     # add two arguments
